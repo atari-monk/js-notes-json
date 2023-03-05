@@ -100,7 +100,7 @@
                 "1. Switch beetween styles (none, desktop, mobile). <span class='mark-1'>5</span>",
                 "2. Usefull Styles, none, desktop, mobile. <span class='mark-1'>5</span>",
                 "3. Color markers, from 1-7, looping on params in notes. <span class='mark-1'>5</span>",
-                "4. Json data in separete repo and page (test if this will work). <span class='mark-1'>5</span>"
+                "4. Json data in separete repo and page. Test if this will work. <span class='mark-1'>5</span>"
               ],
               "params": [
                 {
@@ -127,7 +127,9 @@
                 "3. There can be n params with name and description, used in code section.",
                 "Each param name is marked by color form 1 to 7, after that from 1 again in loop.",
                 "Each param description in detail aside have matching color marker.",
-                "4. "
+                "4. Turns out it works. Loacally, with live server i dont know how to make it work.",
+                "It works on production, so locally it's getting data from github pages to now.",
+                "This means test of new data will be delayed a bit, but separation of data and app is more important."
               ]
             }
           ]
