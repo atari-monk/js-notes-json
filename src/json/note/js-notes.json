@@ -88,7 +88,8 @@
                 "4. User can use json data from another repo and page. <span class='mark-1'>5</span>",
                 "5. User has acces to mvc-template, witch this proj was based on. <span class='mark-1'>5</span>",
                 "6. User is able use templated views. <span class='mark-1'>5</span>",
-                "7. User can input data to form, to generate note json file. <span class='mark-1'>4</span>"
+                "7. User is able use new page type, for templated views. <span class='mark-1'>5</span>",
+                "8. User can input data to form, to generate note json file. <span class='mark-1'>4</span>"
               ],
               "params": [
                 {
@@ -112,7 +113,8 @@
                 "3. Color markers, from 1-7, looping on params in notes. <span class='mark-1'>5</span>",
                 "4. Json data in separete repo and page. Test if this will work. <span class='mark-1'>5</span>",
                 "5. Create Mvc-template that this proj was based on, readable and minimalistic as possible. <span class='mark-1'>5</span>",
-                "6. Create new templated views. <span class='mark-1'>5</span>"
+                "6. Create new templated views. <span class='mark-1'>5</span>",
+                "7. Create new page type for templated views. <span class='mark-1'>5</span>"
               ],
               "params": [
                 {
@@ -149,7 +151,9 @@
                 "<span class='mark-1'>6.</span> First version of app had views generated from js code.",
                 "Create templated views as separete controls.",
                 "Test it with test data, in dev project.",
-                "If they look good put them in app view classes to be rendered in app."
+                "If they look good put them in app view classes to be rendered in app.",
+                "<span class='mark-1'>7. New page type is needed to develop templated views without braking existing pages.</span> .",
+                "Minimal mvc elements needed for new page type should be used first."
               ]
             }
           ]
