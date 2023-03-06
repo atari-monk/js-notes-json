@@ -146,10 +146,10 @@
           "codes": [
             {
               "format": [
-                "<img src='https://atari-monk.github.io/js-notes-json/src/img/stool1.png' alt='stool 1' width='942' height='784'>",
-                "<img src='https://atari-monk.github.io/js-notes-json/src/img/stool2.png' alt='stool 2' width='916' height='680'>",
-                "<img src='https://atari-monk.github.io/js-notes-json/src/img/stool3.png' alt='stool 3' width='1102' height='567'>",
-                "<img src='https://atari-monk.github.io/js-notes-json/src/img/stool4.png' alt='stool 4' width='829' height='864'>"
+                "<img src='https://atari-monk.github.io/js-notes-json/src/img/stool1.PNG' alt='stool 1' width='942' height='784'>",
+                "<img src='https://atari-monk.github.io/js-notes-json/src/img/stool2.PNG' alt='stool 2' width='916' height='680'>",
+                "<img src='https://atari-monk.github.io/js-notes-json/src/img/stool3.PNG' alt='stool 3' width='1102' height='567'>",
+                "<img src='https://atari-monk.github.io/js-notes-json/src/img/stool4.PNG' alt='stool 4' width='829' height='864'>"
               ]
             }
           ]
