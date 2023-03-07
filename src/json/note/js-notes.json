@@ -36,6 +36,14 @@
         {
           "link": "https://atari-monk.github.io/js-notes/",
           "text": "Notes page"
+        },
+        {
+          "link": "https://stackdiary.com/detect-mobile-browser-javascript/",
+          "text": "Detect Mobile"
+        },
+        {
+          "link": "https://www.npmjs.com/package/ua-parser-js",
+          "text": "npm Detect Mobile"
         }
       ]
     },
@@ -47,10 +55,7 @@
     },
     "precondition": {
       "text": "Preconditions",
-      "list": [
-        "VSCode",
-        "GitHub"
-      ]
+      "list": ["VSCode", "GitHub"]
     }
   },
   "notes": [
@@ -58,9 +63,7 @@
       "text": "Notes",
       "points": [
         {
-          "text": [
-            "History"
-          ],
+          "text": ["History"],
           "codes": [
             {
               "format": [
@@ -75,9 +78,7 @@
           ]
         },
         {
-          "text": [
-            "User Stories"
-          ],
+          "text": ["User Stories"],
           "codes": [
             {
               "format": [
@@ -89,7 +90,8 @@
                 "5. User has acces to mvc-template, witch this proj was based on. <span class='mark-1'>5</span>",
                 "6. User is able use templated views. <span class='mark-1'>5</span>",
                 "7. User is able use new page type, for templated views. <span class='mark-1'>5</span>",
-                "8. User can input data to form, to generate note json file. <span class='mark-1'>4</span>"
+                "8. User is able to see what system he is operating, page style will be ajusted for that. <span class='mark-1'>5</span>",
+                "9. User can input data to form, to generate note json file. <span class='mark-1'>4</span>"
               ],
               "params": [
                 {
@@ -101,9 +103,7 @@
           ]
         },
         {
-          "text": [
-            "Features"
-          ],
+          "text": ["Features"],
           "codes": [
             {
               "format": [
@@ -114,7 +114,8 @@
                 "4. Json data in separete repo and page. Test if this will work. <span class='mark-1'>5</span>",
                 "5. Create Mvc-template that this proj was based on, readable and minimalistic as possible. <span class='mark-1'>5</span>",
                 "6. Create new templated views. <span class='mark-1'>5</span>",
-                "7. Create new page type for templated views. <span class='mark-1'>5</span>"
+                "7. Create template/control to detect operating system. <span class='mark-1'>5</span>",
+                "8. Create new page type for templated views. <span class='mark-1'>5</span>"
               ],
               "params": [
                 {
@@ -126,9 +127,7 @@
           ]
         },
         {
-          "text": [
-            "Notes"
-          ],
+          "text": ["Notes"],
           "codes": [
             {
               "format": [
@@ -152,8 +151,13 @@
                 "Create templated views as separete controls.",
                 "Test it with test data, in dev project.",
                 "If they look good put them in app view classes to be rendered in app.",
-                "<span class='mark-1'>7. New page type is needed to develop templated views without braking existing pages.</span> .",
-                "Minimal mvc elements needed for new page type should be used first."
+                "<span class='mark-1'>7.</span> New page type is needed to develop templated views without braking existing pages.",
+                "Minimal mvc elements needed for new page type should be used first.",
+                "<span class='mark-1'>8.</span> This turned out to be complex.",
+                "I found some examples only to deem them unsufficient.",
+                "I was distracted by searching cards examples for presenting.",
+                "Found article and lib for detecting platform, links in Source.",
+                "Maybe they dont have rubust standard for this."
               ]
             }
           ]
@@ -161,7 +165,5 @@
       ]
     }
   ],
-  "summary": [
-    "App in use for making notes."
-  ]
+  "summary": ["App in use for making notes."]
 }
