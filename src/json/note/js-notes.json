@@ -165,7 +165,8 @@
                 "Before template, i added renderers classes in controller, to handle diffrent methods for producing views.",
                 "Otherwise couldnt handle chaos.",
                 "Maybe templates for views was unnecessary, maybe generated views just needed better css and more work.",
-                "Well now, there will be two options for views rendering."
+                "Well now, there will be two options for views rendering.",
+                "git mv IndexRenderer.js indexRenderer.js"
               ]
             }
           ]
