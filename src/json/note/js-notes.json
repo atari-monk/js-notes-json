@@ -92,7 +92,7 @@
                 "7. User is able use new page type, for templated views. <span class='mark-1'>5</span>",
                 "8. User is able to see what system he is operating, page style will be ajusted for that. <span class='mark-1'>5</span>",
                 "9. User is able to render views with two methods, generate and template. <span class='mark-1'>5</span>",
-                "10. User us able to use templated views for title and navigation on index page. <span class='mark-1'>5</span>",
+                "10. User is able to use templated views for title and navigation on index page. <span class='mark-1'>5</span>",
                 "11. User can input data to form, to generate note json file. <span class='mark-1'>4</span>"
               ],
               "params": [
