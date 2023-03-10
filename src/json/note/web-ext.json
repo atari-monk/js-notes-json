@@ -2,10 +2,10 @@
   "title": "VSCode Extensions",
   "nav": [
     {
-      "text": "Source"
+      "title": "Source"
     },
     {
-      "text": "Notes"
+      "title": "Notes"
     }
   ],
   "sections": {

@@ -2,19 +2,19 @@
   "title": "Socket.IO template Azure deploy",
   "nav": [
     {
-      "text": "Source"
+      "title": "Source"
     },
     {
-      "text": "Description"
+      "title": "Description"
     },
     {
-      "text": "Preconditions"
+      "title": "Preconditions"
     },
     {
-      "text": "Notes"
+      "title": "Notes"
     },
     {
-      "text": "Summary"
+      "title": "Summary"
     }
   ],
   "sections": {

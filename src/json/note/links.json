@@ -2,16 +2,16 @@
   "title": "Links",
   "nav": [
     {
-      "text": "Description"
+      "title": "Description"
     },
     {
-      "text": "Preconditions"
+      "title": "Preconditions"
     },
     {
-      "text": "Notes"
+      "title": "Notes"
     },
     {
-      "text": "Summary"
+      "title": "Summary"
     }
   ],
   "sections": {

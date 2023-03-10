@@ -1,10 +1,11 @@
 {
+  "title": "title",
   "nav": [
     {
-      "text": "a"
+      "title": "a"
     },
     {
-        "text": "b"
+      "title": "b"
     }
   ],
   "sections": [
@@ -22,17 +23,17 @@
       ]
     },
     {
-        "text": "b",
-        "links": [
-            {
-                "link": "",
-                "text": ""
-            },
-            {
-                "link": "",
-                "text": ""
-            }
-        ]
+      "text": "b",
+      "links": [
+        {
+          "link": "",
+          "text": ""
+        },
+        {
+          "link": "",
+          "text": ""
+        }
+      ]
     }
   ]
 }

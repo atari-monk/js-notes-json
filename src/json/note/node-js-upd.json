@@ -2,16 +2,16 @@
   "title": "Update with npm",
   "nav": [
     {
-      "text": "Source"
+      "title": "Source"
     },
     {
-      "text": "Description"
+      "title": "Description"
     },
     {
-      "text": "Notes"
+      "title": "Notes"
     },
     {
-      "text": "Summary"
+      "title": "Summary"
     }
   ],
   "sections": {
