@@ -1,16 +1,17 @@
 {
+  "title": "atari-monk Notes",
   "nav": [
     {
-      "text": "Coding"
+      "title": "Coding"
     },
     {
-      "text": "Software"
+      "title": "Software"
     },
     {
-      "text": "Diy"
+      "title": "Diy"
     },
     {
-      "text": "Other"
+      "title": "Other"
     }
   ],
   "sections": [

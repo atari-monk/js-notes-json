@@ -1,10 +1,10 @@
 {
   "nav": [
     {
-      "text": ".Net"
+      "title": ".Net"
     },
     {
-      "text": "My Projects"
+      "title": "My Projects"
     }
   ],
   "sections": [

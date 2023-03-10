@@ -1,16 +1,16 @@
 {
   "nav": [
     {
-      "text": "General"
+      "title": "General"
     },
     {
-      "text": "Node.js"
+      "title": "Node.js"
     },
     {
-      "text": "Node.js"
+      "title": "Node.js"
     },
     {
-      "text": "My Projects"
+      "title": "My Projects"
     }
   ],
   "sections": [
