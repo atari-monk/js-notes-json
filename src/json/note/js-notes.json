@@ -83,6 +83,7 @@
             {
               "format": [
                 "Story {0}",
+                "0. User uses mvc pattern to build page for notes.",
                 "1. User can switch beetween styles (none, desktop, mobile). <span class='mark-1'>5</span>",
                 "2. User has styles to chose from (none, desktop, mobile). <span class='mark-1'>5</span>",
                 "3. User has color markers cycling from 1-7 in a loop, used on params in notes. <span class='mark-1'>5</span>",
@@ -93,7 +94,8 @@
                 "8. User is able to see what system he is operating, page style will be ajusted for that. <span class='mark-1'>5</span>",
                 "9. User is able to render views with two methods, generate and template. <span class='mark-1'>5</span>",
                 "10. User is able to use templated views for title and navigation on index page. <span class='mark-1'>5</span>",
-                "11. User can input data to form, to generate note json file. <span class='mark-1'>4</span>"
+                "11. User has all pages rendered with templating method, using html template element. <span class='mark-1'>5</span>",
+                "12. User can input data to form, to generate note json file. <span class='mark-1'>4</span>"
               ],
               "params": [
                 {
@@ -119,8 +121,9 @@
                 "7. Create new page type for templated views. <span class='mark-1'>5</span>",
                 "8. Create template/control to detect operating system. <span class='mark-1'>5</span>",
                 "9. Create renderers that provide views based on generate or template methods. <span class='mark-1'>5</span>",
-                "10. Create template of title, navigation section for index page.<span class='mark-1'>5</span>",
-                "To separete html from js code and to have more control over css."
+                "10. Create template of title, navigation section for index page. <span class='mark-1'>5</span>",
+                "To separete html from js code and to have more control over css.",
+                "11. Create all pages with templating method. <span class='mark-1'>5</span>"
               ],
               "params": [
                 {
@@ -168,7 +171,12 @@
                 "git mv IndexRenderer.js indexRenderer.js",
                 "<span class='mark-1'>10.</span> Nav template has title.",
                 "Links for switching style between none, desktop, mobile.",
-                "Links for navigation staying on index page."
+                "Links for navigation staying on index page.",
+                "Card detecting operating system.",
+                "<span class='mark-1'>11.</span> New repo js-notes-templated created.",
+                "Generating html in old repo js-notes-generated.",
+                "Templates first created in repo html-css-js, then moved to js-notes-templated.",
+                "Current step is to create index page template, style it, them move it to app."
               ]
             }
           ]
