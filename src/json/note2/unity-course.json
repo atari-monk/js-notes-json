@@ -70,6 +70,28 @@
         "02:38-02:48 15. Interact Action, C# Events",
         "02:48-03:11 16. Selected Counter Visual, Singleton Pattern"
       ]
+    },
+    {
+      "type": "note",
+      "title": "Create Project",
+      "note": [
+        "Install Unity Hub",
+        "Instal Unity Editor version 2022.2.1f1 (course version)",
+        "Only editor and Visual Studio Community 2022 for this",
+        "Create new Project",
+        "Select Unity Editor version 2022.2.1f1",
+        "Installed on game ssd drive",
+        "E:\\2022.2.1f1\\Editor\\Unity.exe",
+        "select 3D URP template (universal render pipeline), download template",
+        "Set Project Name to KitchenChaos",
+        "Project folder: E:\\atari-monk\\unity-course",
+        "Click New Project, editor opens",
+        "remove readme assets about URP",
+        "Edit->Project Settings->Graphics Tab check ig URP HighFidelity asset should be assign",
+        "URP Global Settings should be set to UniversalRenderPipelineGlobalSettings",
+        "On Quality tab HighFidelity should be seleted, trash/delete preforment and balanced",
+        "Go to main assets tab and delete preforment and balanced assets (4)"
+      ]
     }
   ]
 }
