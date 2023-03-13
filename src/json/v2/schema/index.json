@@ -1,0 +1,29 @@
+{
+  "title": "title",
+  "links": [
+    {
+      "type": "nav",
+      "nav": [
+        {
+          "title": "a"
+        },
+        {
+          "title": "b"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "links": [
+        {
+          "link": "",
+          "text": ""
+        },
+        {
+          "link": "",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

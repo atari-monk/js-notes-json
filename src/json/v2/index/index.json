@@ -1,0 +1,94 @@
+{
+  "title": "atari-monk Notes",
+  "links": [
+    {
+      "type": "nav",
+      "nav": [
+        {
+          "title": "Coding"
+        },
+        {
+          "title": "Software"
+        },
+        {
+          "title": "Diy"
+        },
+        {
+          "title": "Other"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Coding",
+      "links": [
+        {
+          "link": "index.html?page=index/net",
+          "text": ".Net"
+        },
+        {
+          "link": "index.html?page=index/web-dev",
+          "text": "Web Dev"
+        },
+        {
+          "link": "index.html?page=index/azure",
+          "text": "Azure"
+        },
+        {
+          "link": "notes.html?page=note/files",
+          "text": "VSCode files"
+        },
+        {
+          "link": "notes.html?page=note/unity-course",
+          "text": "Learn Unity"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Software",
+      "links": [
+        {
+          "link": "notes.html?page=note/win-11",
+          "text": "Windows 11"
+        },
+        {
+          "link": "notes.html?page=note/apps-keys",
+          "text": "Apps Keys"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Diy",
+      "links": [
+        {
+          "link": "notes.html?page=note/stool",
+          "text": "Stool"
+        }
+      ]
+    },
+    {
+      "type": "section",
+      "title": "Other",
+      "links": [
+        {
+          "link": "notes.html?page=note/todo",
+          "text": "ToDo"
+        },
+        {
+          "link": "notes.html?page=note/recipes",
+          "text": "Recipes"
+        },
+        {
+          "link": "notes.html?page=note/ug-give-up",
+          "text": "UG Give Up Talk"
+        },
+        {
+          "link": "notes.html?page=note/links",
+          "text": "Links"
+        }
+      ]
+    }
+  ]
+}

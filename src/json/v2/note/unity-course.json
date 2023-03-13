@@ -434,7 +434,8 @@
       ]
     },
     {
-      "type": "summary",
+      "type": "note",
+      "title": "Summary",
       "note": ["In progress."]
     }
   ]

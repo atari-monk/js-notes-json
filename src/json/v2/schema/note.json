@@ -1,0 +1,54 @@
+{
+  "title": "Learn Unity",
+  "notes": [
+    {
+      "type": "nav",
+      "nav": [
+        {
+          "title": "Source"
+        },
+        {
+          "title": "Description"
+        },
+        {
+          "title": "Preconditions"
+        },
+        {
+          "title": "Notes"
+        },
+        {
+          "title": "Summary"
+        }
+      ]
+    },
+    {
+      "type": "source",
+      "title": "Source",
+      "links": [
+        {
+          "link": "",
+          "text": ""
+        },
+        {
+          "link": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "description",
+      "title": "Description",
+      "description": [""]
+    },
+    {
+      "type": "precondition",
+      "title": "Preconditions",
+      "list": [""]
+    },
+    {
+      "type": "note",
+      "title": "",
+      "note": [""]
+    }
+  ]
+}
