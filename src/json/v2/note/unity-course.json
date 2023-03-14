@@ -38,11 +38,13 @@
     },
     {
       "type": "description",
+      "navId": "description",
       "title": "Description",
       "description": ["Always wanted to create a game."]
     },
     {
       "type": "precondition",
+      "navId": "precondition",
       "title": "Preconditions",
       "list": ["Unity", "Visual Studio Community 2022"]
     },
