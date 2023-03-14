@@ -46,8 +46,10 @@
       "list": ["Unity", "Visual Studio Community 2022"]
     },
     {
-      "type": "title",
-      "title": "Notes"
+      "type": "note",
+      "navId": "notes",
+      "title": "Notes",
+      "note": []
     },
     {
       "type": "note",
