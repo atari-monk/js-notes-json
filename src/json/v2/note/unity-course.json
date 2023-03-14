@@ -49,6 +49,7 @@
     {
       "type": "note",
       "navId": "notes",
+      "isCopy": false,
       "title": "Notes",
       "note": []
     },
