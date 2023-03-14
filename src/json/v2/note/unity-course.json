@@ -435,6 +435,7 @@
     },
     {
       "type": "note",
+      "nav-id": "summary",
       "title": "Summary",
       "note": ["In progress."]
     }
